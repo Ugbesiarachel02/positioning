@@ -1,0 +1,135 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+.dstv-container{
+    height:150vh;
+    width: 100%;
+    background: url(cb092163-3164-4bcd-bc38-0fc2272825a3.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-top:120px;
+}
+.dstv-section{
+    height:120vh;
+    width:35%;
+    margin:auto;
+    background: rgba(41, 62, 122, 0.5);
+    
+}
+img{
+    height:65px;
+}
+.sign-par{
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
+
+}
+.sign-in-container{
+    padding-left: 45px;
+   
+}
+.country-options{
+    width:90%;
+    padding:10px;
+    background: rgba(205,209, 228,0.7);
+    color:white;
+    font-size: 17px;
+    border:none;
+    border-radius: 20px;
+    outline: none;
+    padding-left:48px;
+    margin-bottom: 15px;
+    margin-top: 20px;
+    
+
+}
+.country-options option{
+    color:black;
+    font-size: 18px;
+}
+.sign-in-container .surname{
+    width:90%;
+    padding:10px;
+    background: rgba(205,209, 228,0.7);
+    color:white;
+    font-size: 17px;
+    border:none;
+    border-radius: 20px;
+    outline: none;
+    padding-left:48px;
+    margin-bottom: 20px;
+    
+}
+.sign-in-container input::placeholder{
+    color:white;
+
+}
+.checkbox{
+    height:25px;
+    width: 25px;
+    display: flex;
+    
+}
+.check-bar{
+    display:flex;
+}
+.check-bar label{
+    align-content: center;
+    color:#fff;
+    padding-left: 8px;
+}
+.btn{
+    margin-top:30px;
+    padding:10px 80px;
+    border-radius:20px;
+    border: none;
+    text-align: center;
+    background: rgba(113, 147, 239, 0.5);
+    color:#fff;
+    margin-left:75px;
+    transition: 0.5s ease;
+    margin-bottom: 30px;
+}
+.btn:hover{
+    opacity:0.5;
+    
+}
+.or-bar button{
+    border-radius: 100%;
+    padding:7px;
+    border: none;
+    color: rgb(4, 109, 135);
+    margin-left:40%;
+    margin-right:60%;
+    position: relative;
+    margin-botom: 80px;
+
+
+}
+.or-bar button::before{
+    content: "";
+    width:167px;
+    height:2px;
+    background: #fff;
+    position:absolute;
+    top:15px;
+    left:0;
+    right:0;
+    margin-left:-162px;
+}
+.or-bar button::after{
+    content: "";
+    width:167px;
+    height:2px;
+    background: #fff;
+    position:absolute;
+    top:15px;
+    left:0;
+    right:0;
+    margin-left:34px;
+}
+

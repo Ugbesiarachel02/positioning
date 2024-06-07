@@ -1,0 +1,13 @@
+.body{
+  background-color: rgb(243, 162, 11);
+
+}
+.stage1{
+
+ color: white;
+ font: bold;
+ font-style: italic;
+}
+.stage0{
+  font-weight: 500px;
+}

@@ -1,0 +1,32 @@
+
+ .box{
+    background-color: brown;
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    position: relative;
+    animation: bounce 2s;
+ }
+
+
+ @keyframes bounce {
+
+ }
+    0%{
+        left: 0;
+
+    }
+
+
+
+
+    100%{
+        left:200px
+    }
+
+        
+
+    }
+     
+ }
+ 

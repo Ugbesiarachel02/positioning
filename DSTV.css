@@ -1,0 +1,13 @@
+.body{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.dstv-container{
+    height:150vh;
+    width: 100%;
+    background: url(WhatsApp\ Image\ 2024-04-17\ at\ 13.31.25_a2cc4e9a.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-top:120px;
+}
