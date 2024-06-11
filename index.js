@@ -37,3 +37,8 @@ var kilometer
 
 
  
+//git init
+//git add
+//git commit -m"""
+//git push origin main
+//git push..... set upstream origin  main 
